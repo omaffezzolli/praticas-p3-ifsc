@@ -11,8 +11,5 @@ public class carro {
 		
 		
 	}
-    public void acelerar() {
-    	
-    	
-    }
+   
 }
